@@ -1,0 +1,986 @@
+Alberta	rosie perez:2900
+British Columbia	rosie perez:2900
+Manitoba	rosie perez:2900
+New Brunswick	rosie perez:2900
+Newfoundland and Labrador	rosie perez:2900
+Nova Scotia	rosie perez:2900
+Northwest Territories	rosie perez:2900
+Nunavut	rosie perez:2900
+Ontario	rosie perez:2900
+Prince Edward Island	rosie perez:2900
+Québec	rosie perez:2900
+Saskatchewan	rosie perez:2900
+Yukon Territory	rosie perez:2900
+Brandenburg	deutschland – bosnien-herzegowina:16600
+Berlin	deutschland – bosnien-herzegowina:16600
+Baden-Württemberg	deutschland – bosnien-herzegowina:16600
+Bavaria	deutschland – bosnien-herzegowina:16600
+Bremen	deutschland – bosnien-herzegowina:16600
+Hesse	deutschland – bosnien-herzegowina:16600
+Hamburg	deutschland – bosnien-herzegowina:16600
+Mecklenburg-Vorpommern	deutschland – bosnien-herzegowina:16600
+Lower Saxony	deutschland – bosnien-herzegowina:16600
+North Rhine-Westphalia	deutschland – bosnien-herzegowina:16600
+Rhineland-Palatinate	deutschland – bosnien-herzegowina:16600
+Schleswig-Holstein	deutschland – bosnien-herzegowina:16600
+Saarland	deutschland – bosnien-herzegowina:16600
+Saxony	deutschland – bosnien-herzegowina:16600
+Saxony-Anhalt	deutschland – bosnien-herzegowina:16600
+Thuringia	deutschland – bosnien-herzegowina:16600
+Aargau	konny reimanns:1750
+Appenzell Innerrhoden	konny reimanns:1750
+Appenzell Outer Rhodes	konny reimanns:1750
+Canton of Bern	konny reimanns:1750
+Basel-Landschaft	konny reimanns:1750
+Basel-Stadt	konny reimanns:1750
+Canton of Fribourg	konny reimanns:1750
+Geneva	konny reimanns:1750
+Canton of Glarus	konny reimanns:1750
+Grisons	konny reimanns:1750
+Canton of Jura	konny reimanns:1750
+Lucerne	konny reimanns:1750
+Canton of Neuchâtel	konny reimanns:1750
+Nidwalden	konny reimanns:1750
+Canton of Obwalden	konny reimanns:1750
+St. Gallen	konny reimanns:1750
+Canton of Schaffhausen	konny reimanns:1750
+Canton of Solothurn	konny reimanns:1750
+Canton of Schwyz	konny reimanns:1750
+Thurgau	konny reimanns:1750
+Ticino	konny reimanns:1750
+Canton of Uri	konny reimanns:1750
+Vaud	konny reimanns:1750
+Valais	konny reimanns:1750
+Canton of Zug	konny reimanns:1750
+Zurich	konny reimanns:1750
+Volyns'ka oblast	грузія – україна:7650
+Luhans'ka oblast	грузія – україна:7650
+Dnipropetrovsk Oblast	грузія – україна:7650
+Donetsk Oblast	грузія – україна:7650
+Zhytomyrs'ka oblast	грузія – україна:7650
+Zakarpats'ka oblast	грузія – україна:7650
+Zaporiz'ka oblast	грузія – україна:7650
+Ivano-Frankivs'ka oblast	грузія – україна:7650
+Kyiv city	грузія – україна:7650
+Kyivs'ka oblast	грузія – україна:7650
+Kirovohrads'ka oblast	грузія – україна:7650
+Sevastopol' city	грузія – україна:7650
+Crimea	грузія – україна:7650
+Lviv Oblast	грузія – україна:7650
+Mykolaivs'ka oblast	грузія – україна:7650
+Odessa Oblast	грузія – україна:7650
+Poltavs'ka oblast	грузія – україна:7650
+Rivnens'ka oblast	грузія – україна:7650
+Sums'ka oblast	грузія – україна:7650
+Ternopil's'ka oblast	грузія – україна:7650
+Kharkiv Oblast	грузія – україна:7650
+Khersons'ka oblast	грузія – україна:7650
+Khmel'nyts'ka oblast	грузія – україна:7650
+Cherkas'ka oblast	грузія – україна:7650
+Chernihivs'ka oblast	грузія – україна:7650
+Chernivets'ka oblast	грузія – україна:7650
+Veracruz	alemania bosnia y herzegovina:2550
+Yucatan	alemania bosnia y herzegovina:2550
+Zacatecas	alemania bosnia y herzegovina:2550
+Aguascalientes	alemania bosnia y herzegovina:2550
+Baja California	alemania bosnia y herzegovina:2550
+Baja California Sur	alemania bosnia y herzegovina:2550
+Campeche	alemania bosnia y herzegovina:2550
+Chihuahua	alemania bosnia y herzegovina:2550
+Chiapas	alemania bosnia y herzegovina:2550
+Coahuila	alemania bosnia y herzegovina:2550
+Colima	alemania bosnia y herzegovina:2550
+Mexico City	alemania bosnia y herzegovina:2550
+Durango	alemania bosnia y herzegovina:2550
+Guerrero	alemania bosnia y herzegovina:2550
+Guanajuato	alemania bosnia y herzegovina:2550
+Hidalgo	alemania bosnia y herzegovina:2550
+Jalisco	alemania bosnia y herzegovina:2550
+State of Mexico	alemania bosnia y herzegovina:2550
+Michoacán	alemania bosnia y herzegovina:2550
+Morelos	alemania bosnia y herzegovina:2550
+Nayarit	alemania bosnia y herzegovina:2550
+Nuevo Leon	alemania bosnia y herzegovina:2550
+Oaxaca	alemania bosnia y herzegovina:2550
+Puebla	alemania bosnia y herzegovina:2550
+Querétaro	alemania bosnia y herzegovina:2550
+Quintana Roo	alemania bosnia y herzegovina:2550
+Sinaloa	alemania bosnia y herzegovina:2550
+San Luis Potosi	alemania bosnia y herzegovina:2550
+Sonora	alemania bosnia y herzegovina:2550
+Tabasco	alemania bosnia y herzegovina:2550
+Tamaulipas	alemania bosnia y herzegovina:2550
+Tlaxcala	alemania bosnia y herzegovina:2550
+Alba County	igor cuciuc:3700
+Argeș County	igor cuciuc:3700
+Arad County	igor cuciuc:3700
+Bucharest	igor cuciuc:3700
+Bacău County	igor cuciuc:3700
+Bihor County	igor cuciuc:3700
+Bistrița-Năsăud County	igor cuciuc:3700
+Brăila County	igor cuciuc:3700
+Botoșani County	igor cuciuc:3700
+Brașov County	igor cuciuc:3700
+Buzău County	igor cuciuc:3700
+Cluj County	igor cuciuc:3700
+Călărași County	igor cuciuc:3700
+Caraș-Severin County	igor cuciuc:3700
+Constanța County	igor cuciuc:3700
+Covasna County	igor cuciuc:3700
+Dâmbovița County	igor cuciuc:3700
+Dolj County	igor cuciuc:3700
+Gorj County	igor cuciuc:3700
+Galați	igor cuciuc:3700
+Giurgiu County	igor cuciuc:3700
+Hunedoara County	igor cuciuc:3700
+Harghita County	igor cuciuc:3700
+Ilfov County	igor cuciuc:3700
+Ialomița County	igor cuciuc:3700
+Iași County	igor cuciuc:3700
+Mehedinți County	igor cuciuc:3700
+Maramureș County	igor cuciuc:3700
+Mureș County	igor cuciuc:3700
+Neamț County	igor cuciuc:3700
+Olt County	igor cuciuc:3700
+Prahova	igor cuciuc:3700
+Sibiu	igor cuciuc:3700
+Sălaj	igor cuciuc:3700
+Satu Mare County	igor cuciuc:3700
+Suceava County	igor cuciuc:3700
+Tulcea County	igor cuciuc:3700
+Timiș County	igor cuciuc:3700
+Teleorman County	igor cuciuc:3700
+Vâlcea County	igor cuciuc:3700
+Vrancea County	igor cuciuc:3700
+Vaslui County	igor cuciuc:3700
+State of Acre	athletico-pr x atlético-mg:18250
+State of Alagoas	athletico-pr x atlético-mg:18250
+State of Amazonas	athletico-pr x atlético-mg:18250
+State of Amapá	athletico-pr x atlético-mg:18250
+State of Bahia	athletico-pr x atlético-mg:18250
+State of Ceará	athletico-pr x atlético-mg:18250
+Federal District	athletico-pr x atlético-mg:18250
+State of Espírito Santo	athletico-pr x atlético-mg:18250
+State of Goiás	athletico-pr x atlético-mg:18250
+State of Maranhão	athletico-pr x atlético-mg:18250
+State of Minas Gerais	athletico-pr x atlético-mg:18250
+State of Mato Grosso do Sul	athletico-pr x atlético-mg:18250
+State of Mato Grosso	athletico-pr x atlético-mg:18250
+State of Pará	athletico-pr x atlético-mg:18250
+State of Paraíba	athletico-pr x atlético-mg:18250
+State of Pernambuco	athletico-pr x atlético-mg:18250
+State of Piauí	athletico-pr x atlético-mg:18250
+State of Paraná	athletico-pr x atlético-mg:18250
+State of Rio de Janeiro	athletico-pr x atlético-mg:18250
+State of Rio Grande do Norte	athletico-pr x atlético-mg:18250
+State of Rondônia	athletico-pr x atlético-mg:18250
+State of Roraima	athletico-pr x atlético-mg:18250
+State of Rio Grande do Sul	athletico-pr x atlético-mg:18250
+State of Santa Catarina	athletico-pr x atlético-mg:18250
+State of Sergipe	athletico-pr x atlético-mg:18250
+State of São Paulo	athletico-pr x atlético-mg:18250
+State of Tocantins	athletico-pr x atlético-mg:18250
+Aust-Agder	olav thon:8050
+Vest-Agder	olav thon:8050
+Rogaland	olav thon:8050
+Hordaland	olav thon:8050
+Sogn og Fjordane	olav thon:8050
+Møre og Romsdal	olav thon:8050
+Sor-Trondelag	olav thon:8050
+Nord-Trondelag	olav thon:8050
+Nordland	olav thon:8050
+Troms	olav thon:8050
+Finnmark	olav thon:8050
+Ostfold	olav thon:8050
+Akershus	olav thon:8050
+Oslo	olav thon:8050
+Hedmark	olav thon:8050
+Oppland	olav thon:8050
+Buskerud	olav thon:8050
+Vestfold	olav thon:8050
+Telemark	olav thon:8050
+Brussels	israël belgië:1400
+Flanders	israël belgië:1400
+Walloon Region	israël belgië:1400
+Stockholm County	allan svensson:10400
+Västerbotten County	allan svensson:10400
+Norrbotten County	allan svensson:10400
+Uppsala County	allan svensson:10400
+Södermanland County	allan svensson:10400
+Östergötland County	allan svensson:10400
+Jonkoping County	allan svensson:10400
+Kronoberg County	allan svensson:10400
+Kalmar County	allan svensson:10400
+Gotland County	allan svensson:10400
+Blekinge County	allan svensson:10400
+Skåne County	allan svensson:10400
+Halland County	allan svensson:10400
+Västra Götaland County	allan svensson:10400
+Varmland County	allan svensson:10400
+Örebro County	allan svensson:10400
+Västmanland County	allan svensson:10400
+Dalarna County	allan svensson:10400
+Gavleborg County	allan svensson:10400
+Västernorrland County	allan svensson:10400
+Jamtland County	allan svensson:10400
+Andaman and Nicobar Islands	australia vs pakistan:2300
+Andhra Pradesh	australia vs pakistan:2300
+Arunachal Pradesh	australia vs pakistan:2300
+Assam	australia vs pakistan:2300
+Bihar	australia vs pakistan:2300
+Chandigarh	australia vs pakistan:2300
+Chhattisgarh	australia vs pakistan:2300
+Daman and Diu	australia vs pakistan:2300
+Delhi	australia vs pakistan:2300
+Dadra and Nagar Haveli	australia vs pakistan:2300
+Goa	australia vs pakistan:2300
+Gujarat	australia vs pakistan:2300
+Himachal Pradesh	australia vs pakistan:2300
+Haryana	australia vs pakistan:2300
+Jharkhand	australia vs pakistan:2300
+Jammu and Kashmir	australia vs pakistan:2300
+Karnataka	australia vs pakistan:2300
+Kerala	australia vs pakistan:2300
+Lakshadweep	australia vs pakistan:2300
+Maharashtra	australia vs pakistan:2300
+Meghalaya	australia vs pakistan:2300
+Manipur	australia vs pakistan:2300
+Madhya Pradesh	australia vs pakistan:2300
+Mizoram	australia vs pakistan:2300
+Nagaland	australia vs pakistan:2300
+Odisha	australia vs pakistan:2300
+Punjab	australia vs pakistan:2300
+Puducherry	australia vs pakistan:2300
+Rajasthan	australia vs pakistan:2300
+Sikkim	australia vs pakistan:2300
+Telangana	australia vs pakistan:2300
+Tamil Nadu	australia vs pakistan:2300
+Tripura	australia vs pakistan:2300
+Uttar Pradesh	australia vs pakistan:2300
+Uttarakhand	australia vs pakistan:2300
+West Bengal	australia vs pakistan:2300
+Lower Silesian Voivodeship	flaga cypru:2600
+Kuyavian-Pomeranian Voivodeship	flaga cypru:2600
+Lubusz Voivodeship	flaga cypru:2600
+Łódź Voivodeship	flaga cypru:2600
+Lublin Voivodeship	flaga cypru:2600
+Lesser Poland Voivodeship	flaga cypru:2600
+Masovian Voivodeship	flaga cypru:2600
+Opole Voivodeship	flaga cypru:2600
+Podlaskie Voivodeship	flaga cypru:2600
+Podkarpackie Voivodeship	flaga cypru:2600
+Pomeranian Voivodeship	flaga cypru:2600
+Swietokrzyskie	flaga cypru:2600
+Silesian Voivodeship	flaga cypru:2600
+Warmian-Masurian Voivodeship	flaga cypru:2600
+Greater Poland Voivodeship	flaga cypru:2600
+West Pomeranian Voivodeship	flaga cypru:2600
+Riyadh Province	عبير العلوان:3300
+Makkah Province	عبير العلوان:3300
+Al Madinah Province	عبير العلوان:3300
+Eastern Province	عبير العلوان:3300
+Al Qassim	عبير العلوان:3300
+Hail Province	عبير العلوان:3300
+Tabuk Province	عبير العلوان:3300
+Northern Borders Province	عبير العلوان:3300
+Jazan	عبير العلوان:3300
+Najran	عبير العلوان:3300
+Al Bahah Province	عبير العلوان:3300
+Al Jowf	عبير العلوان:3300
+Aseer Province	عبير العلوان:3300
+South Bohemian Region	český den boje za svobodu a demokracii:39300
+South Moravian Region	český den boje za svobodu a demokracii:39300
+Karlovy Vary Region	český den boje za svobodu a demokracii:39300
+Hradec Králové Region	český den boje za svobodu a demokracii:39300
+Liberec Region	český den boje za svobodu a demokracii:39300
+Moravian-Silesian Region	český den boje za svobodu a demokracii:39300
+Olomouc Region	český den boje za svobodu a demokracii:39300
+Pardubice Region	český den boje za svobodu a demokracii:39300
+Plzeň Region	český den boje za svobodu a demokracii:39300
+Prague	český den boje za svobodu a demokracii:39300
+Central Bohemian Region	český den boje za svobodu a demokracii:39300
+Ústí nad Labem Region	český den boje za svobodu a demokracii:39300
+Vysocina Region	český den boje za svobodu a demokracii:39300
+Zlin Region	český den boje za svobodu a demokracii:39300
+Amazonas Department	alemania bosnia y herzegovina:3900
+Antioquia	alemania bosnia y herzegovina:3900
+Arauca	alemania bosnia y herzegovina:3900
+Atlantico	alemania bosnia y herzegovina:3900
+Bolivar	alemania bosnia y herzegovina:3900
+Boyaca	alemania bosnia y herzegovina:3900
+Caldas	alemania bosnia y herzegovina:3900
+Caquetá	alemania bosnia y herzegovina:3900
+Casanare	alemania bosnia y herzegovina:3900
+Cauca Department	alemania bosnia y herzegovina:3900
+Cesar	alemania bosnia y herzegovina:3900
+Choco	alemania bosnia y herzegovina:3900
+Cordoba	san lorenzo racing:5050
+Cundinamarca	alemania bosnia y herzegovina:3900
+Bogota	alemania bosnia y herzegovina:3900
+Guainia	alemania bosnia y herzegovina:3900
+Guaviare	alemania bosnia y herzegovina:3900
+Huila	alemania bosnia y herzegovina:3900
+La Guajira	alemania bosnia y herzegovina:3900
+Magdalena	alemania bosnia y herzegovina:3900
+Meta	alemania bosnia y herzegovina:3900
+Narino	alemania bosnia y herzegovina:3900
+North Santander	alemania bosnia y herzegovina:3900
+Putumayo	alemania bosnia y herzegovina:3900
+Quindio	alemania bosnia y herzegovina:3900
+Risaralda	alemania bosnia y herzegovina:3900
+Santander Department	alemania bosnia y herzegovina:3900
+San Andrés and Providencia	alemania bosnia y herzegovina:3900
+Sucre	alemania bosnia y herzegovina:3900
+Tolima	alemania bosnia y herzegovina:3900
+Valle del Cauca	alemania bosnia y herzegovina:3900
+Vaupes	alemania bosnia y herzegovina:3900
+Vichada	alemania bosnia y herzegovina:3900
+Aceh	link gacor microstar88 mpo:4550
+Bali	link gacor microstar88 mpo:4550
+Bangka Belitung Islands	link gacor microstar88 mpo:4550
+Bengkulu	link gacor microstar88 mpo:4550
+Banten	link gacor microstar88 mpo:4550
+Gorontalo	link gacor microstar88 mpo:4550
+Jambi	link gacor microstar88 mpo:4550
+West Java	link gacor microstar88 mpo:4550
+East Java	link gacor microstar88 mpo:4550
+Special Capital Region of Jakarta	link gacor microstar88 mpo:4550
+Central Java	link gacor microstar88 mpo:4550
+West Kalimantan	link gacor microstar88 mpo:4550
+East Kalimantan	link gacor microstar88 mpo:4550
+Riau Islands	link gacor microstar88 mpo:4550
+South Kalimantan	link gacor microstar88 mpo:4550
+Central Kalimantan	link gacor microstar88 mpo:4550
+North Kalimantan	link gacor microstar88 mpo:4550
+Lampung	link gacor microstar88 mpo:4550
+Maluku	link gacor microstar88 mpo:4550
+North Maluku	link gacor microstar88 mpo:4550
+West Nusa Tenggara	link gacor microstar88 mpo:4550
+East Nusa Tenggara	link gacor microstar88 mpo:4550
+Papua	link gacor microstar88 mpo:4550
+West Papua	link gacor microstar88 mpo:4550
+Riau	link gacor microstar88 mpo:4550
+North Sulawesi	link gacor microstar88 mpo:4550
+West Sumatra	link gacor microstar88 mpo:4550
+South East Sulawesi	link gacor microstar88 mpo:4550
+South Sulawesi	link gacor microstar88 mpo:4550
+West Sulawesi	link gacor microstar88 mpo:4550
+South Sumatra	link gacor microstar88 mpo:4550
+Central Sulawesi	link gacor microstar88 mpo:4550
+North Sumatra	link gacor microstar88 mpo:4550
+Special Region of Yogyakarta	link gacor microstar88 mpo:4550
+Piedmont	manuel pia:2850
+Aosta	manuel pia:2850
+Lombardy	manuel pia:2850
+Trentino-Alto Adige/South Tyrol	manuel pia:2850
+Veneto	manuel pia:2850
+Friuli-Venezia Giulia	manuel pia:2850
+Liguria	manuel pia:2850
+Emilia-Romagna	manuel pia:2850
+Tuscany	manuel pia:2850
+Umbria	manuel pia:2850
+Marche	manuel pia:2850
+Lazio	manuel pia:2850
+Abruzzo	manuel pia:2850
+Molise	manuel pia:2850
+Campania	manuel pia:2850
+Apulia	manuel pia:2850
+Basilicata	manuel pia:2850
+Calabria	manuel pia:2850
+Sicily	manuel pia:2850
+Sardinia	manuel pia:2850
+Drenthe	adam szalai:5750
+Flevoland	adam szalai:5750
+Friesland	adam szalai:5750
+Gelderland	adam szalai:5750
+Groningen	adam szalai:5750
+Limburg	adam szalai:5750
+North Brabant	adam szalai:5750
+North Holland	adam szalai:5750
+Overijssel	adam szalai:5750
+Utrecht	adam szalai:5750
+Zeeland	adam szalai:5750
+South Holland	adam szalai:5750
+Hokkaido Prefecture	埼玉 栄:2200
+Aomori Prefecture	埼玉 栄:2200
+Iwate Prefecture	埼玉 栄:2200
+Miyagi Prefecture	埼玉 栄:2200
+Akita Prefecture	埼玉 栄:2200
+Yamagata Prefecture	埼玉 栄:2200
+Fukushima Prefecture	埼玉 栄:2200
+Ibaraki Prefecture	埼玉 栄:2200
+Tochigi Prefecture	埼玉 栄:2200
+Gunma Prefecture	埼玉 栄:2200
+Saitama Prefecture	埼玉 栄:2200
+Chiba Prefecture	埼玉 栄:2200
+Tokyo	埼玉 栄:2200
+Kanagawa Prefecture	埼玉 栄:2200
+Niigata Prefecture	埼玉 栄:2200
+Toyama Prefecture	埼玉 栄:2200
+Ishikawa Prefecture	埼玉 栄:2200
+Fukui Prefecture	埼玉 栄:2200
+Yamanashi Prefecture	埼玉 栄:2200
+Nagano Prefecture	埼玉 栄:2200
+Gifu Prefecture	埼玉 栄:2200
+Shizuoka Prefecture	埼玉 栄:2200
+Aichi Prefecture	埼玉 栄:2200
+Mie Prefecture	埼玉 栄:2200
+Shiga Prefecture	埼玉 栄:2200
+Kyoto Prefecture	埼玉 栄:2200
+Osaka Prefecture	埼玉 栄:2200
+Hyogo Prefecture	埼玉 栄:2200
+Nara Prefecture	埼玉 栄:2200
+Wakayama Prefecture	埼玉 栄:2200
+Tottori Prefecture	埼玉 栄:2200
+Shimane Prefecture	埼玉 栄:2200
+Okayama Prefecture	埼玉 栄:2200
+Hiroshima Prefecture	埼玉 栄:2200
+Yamaguchi Prefecture	埼玉 栄:2200
+Tokushima Prefecture	埼玉 栄:2200
+Kagawa Prefecture	埼玉 栄:2200
+Ehime Prefecture	埼玉 栄:2200
+Kochi Prefecture	埼玉 栄:2200
+Fukuoka Prefecture	埼玉 栄:2200
+Saga Prefecture	埼玉 栄:2200
+Nagasaki Prefecture	埼玉 栄:2200
+Kumamoto Prefecture	埼玉 栄:2200
+Oita Prefecture	埼玉 栄:2200
+Miyazaki Prefecture	埼玉 栄:2200
+Kagoshima Prefecture	埼玉 栄:2200
+Okinawa Prefecture	埼玉 栄:2200
+Aveiro District	pedro guerra:24800
+Beja District	pedro guerra:24800
+Braga	pedro guerra:24800
+Bragança District	pedro guerra:24800
+Castelo Branco District	pedro guerra:24800
+Coimbra District	pedro guerra:24800
+Évora District	pedro guerra:24800
+Faro District	pedro guerra:24800
+Guarda District	pedro guerra:24800
+Leiria District	pedro guerra:24800
+Lisbon	pedro guerra:24800
+Portalegre District	pedro guerra:24800
+Porto District	pedro guerra:24800
+Santarém District	pedro guerra:24800
+Setubal	pedro guerra:24800
+Viana do Castelo District	pedro guerra:24800
+Vila Real District	pedro guerra:24800
+Viseu District	pedro guerra:24800
+Azores	pedro guerra:24800
+Madeira	pedro guerra:24800
+North Denmark Region	victoria kjær theilvig:7150
+Central Denmark Region	victoria kjær theilvig:7150
+Region Syddanmark	victoria kjær theilvig:7150
+Capital Region of Denmark	victoria kjær theilvig:7150
+Region Zealand	victoria kjær theilvig:7150
+Metro Manila	tropical cyclone wind signal #2:5150
+Ilocos Region	tropical cyclone wind signal #2:5150
+Cagayan Valley	tropical cyclone wind signal #2:5150
+Central Luzon	tropical cyclone wind signal #2:5150
+Bicol	tropical cyclone wind signal #2:5150
+Western Visayas	tropical cyclone wind signal #2:5150
+Central Visayas	tropical cyclone wind signal #2:5150
+Eastern Visayas	tropical cyclone wind signal #2:5150
+Zamboanga Peninsula	tropical cyclone wind signal #2:5150
+Northern Mindanao	tropical cyclone wind signal #2:5150
+Davao Region	tropical cyclone wind signal #2:5150
+SOCCSKSARGEN	tropical cyclone wind signal #2:5150
+Caraga	tropical cyclone wind signal #2:5150
+Autonomous Region in Muslim Mindanao	tropical cyclone wind signal #2:5150
+Cordillera Administrative Region	tropical cyclone wind signal #2:5150
+Calabarzon	tropical cyclone wind signal #2:5150
+MIMAROPA	tropical cyclone wind signal #2:5150
+Baranya	szalai ádám:32500
+Békés County	szalai ádám:32500
+Bács-Kiskun	szalai ádám:32500
+Budapest	szalai ádám:32500
+Borsod-Abaúj-Zemplén	szalai ádám:32500
+Csongrád	szalai ádám:32500
+Fejér	szalai ádám:32500
+Gyor-Moson-Sopron	szalai ádám:32500
+Hajdú-Bihar	szalai ádám:32500
+Heves County	szalai ádám:32500
+Jász-Nagykun-Szolnok	szalai ádám:32500
+Komárom-Esztergom	szalai ádám:32500
+Nógrád County	szalai ádám:32500
+Pest County	szalai ádám:32500
+Somogy County	szalai ádám:32500
+Szabolcs-Szatmár-Bereg	szalai ádám:32500
+Tolna County	szalai ádám:32500
+Vas County	szalai ádám:32500
+Veszprém	szalai ádám:32500
+Zala County	szalai ádám:32500
+Abia	memefi okx claim:3650
+Adamawa	memefi okx claim:3650
+Akwa Ibom	memefi okx claim:3650
+Anambra	memefi okx claim:3650
+Bauchi	memefi okx claim:3650
+Benue	memefi okx claim:3650
+Borno	memefi okx claim:3650
+Bayelsa	memefi okx claim:3650
+Cross River	memefi okx claim:3650
+Delta	memefi okx claim:3650
+Ebonyi	memefi okx claim:3650
+Edo	memefi okx claim:3650
+Ekiti	memefi okx claim:3650
+Enugu	memefi okx claim:3650
+Federal Capital Territory	memefi okx claim:3650
+Gombe	memefi okx claim:3650
+Imo	memefi okx claim:3650
+Jigawa	memefi okx claim:3650
+Kaduna	memefi okx claim:3650
+Kebbi	memefi okx claim:3650
+Kano	memefi okx claim:3650
+Kogi	memefi okx claim:3650
+Katsina	memefi okx claim:3650
+Kwara	memefi okx claim:3650
+Lagos	memefi okx claim:3650
+Nasarawa	memefi okx claim:3650
+Niger	memefi okx claim:3650
+Ogun State	memefi okx claim:3650
+Ondo	memefi okx claim:3650
+Osun	memefi okx claim:3650
+Oyo	memefi okx claim:3650
+Plateau	memefi okx claim:3650
+Rivers	memefi okx claim:3650
+Sokoto	memefi okx claim:3650
+Taraba	memefi okx claim:3650
+Yobe	memefi okx claim:3650
+Zamfara	memefi okx claim:3650
+South Karelia	samuli vasala:3050
+Southern Ostrobothnia	samuli vasala:3050
+Southern Savonia	samuli vasala:3050
+Kainuu	samuli vasala:3050
+Tavastia Proper	samuli vasala:3050
+Central Ostrobothnia	samuli vasala:3050
+Central Finland	samuli vasala:3050
+Kymenlaakso	samuli vasala:3050
+Lapland	samuli vasala:3050
+Pirkanmaa	samuli vasala:3050
+Ostrobothnia	samuli vasala:3050
+North Karelia	samuli vasala:3050
+Northern Ostrobothnia	samuli vasala:3050
+Northern Savonia	samuli vasala:3050
+Päijänne Tavastia	samuli vasala:3050
+Satakunta	samuli vasala:3050
+Uusimaa	samuli vasala:3050
+Southwest Finland	samuli vasala:3050
+Burgenland	österreich – slowenien:5900
+Carinthia	österreich – slowenien:5900
+Lower Austria	österreich – slowenien:5900
+Upper Austria	österreich – slowenien:5900
+Salzburg	österreich – slowenien:5900
+Styria	österreich – slowenien:5900
+Tyrol	österreich – slowenien:5900
+Vorarlberg	österreich – slowenien:5900
+Vienna	österreich – slowenien:5900
+Adana	tümbet güncel:5950
+Adıyaman Province	tümbet güncel:5950
+Afyonkarahisar Province	tümbet güncel:5950
+Ağrı	tümbet güncel:5950
+Amasya Province	tümbet güncel:5950
+Ankara	tümbet güncel:5950
+Antalya	tümbet güncel:5950
+Artvin	tümbet güncel:5950
+Aydın Province	tümbet güncel:5950
+Balıkesir Province	tümbet güncel:5950
+Bilecik	tümbet güncel:5950
+Bingöl Province	tümbet güncel:5950
+Bitlis	tümbet güncel:5950
+Bolu	tümbet güncel:5950
+Burdur Province	tümbet güncel:5950
+Bursa	tümbet güncel:5950
+Çanakkale Province	tümbet güncel:5950
+Çankırı	tümbet güncel:5950
+Çorum Province	tümbet güncel:5950
+Denizli	tümbet güncel:5950
+Diyarbakır	tümbet güncel:5950
+Edirne	tümbet güncel:5950
+Elazığ	tümbet güncel:5950
+Erzincan	tümbet güncel:5950
+Erzurum	tümbet güncel:5950
+Eskişehir Province	tümbet güncel:5950
+Gaziantep	tümbet güncel:5950
+Giresun	tümbet güncel:5950
+Gümüşhane	tümbet güncel:5950
+Hakkâri	tümbet güncel:5950
+Hatay	tümbet güncel:5950
+Isparta Province	tümbet güncel:5950
+Mersin Province	tümbet güncel:5950
+İstanbul	tümbet güncel:5950
+İzmir	tümbet güncel:5950
+Kars	tümbet güncel:5950
+Kastamonu	tümbet güncel:5950
+Kayseri Province	tümbet güncel:5950
+Kırklareli	tümbet güncel:5950
+Kırşehir	tümbet güncel:5950
+Kocaeli	tümbet güncel:5950
+Konya	tümbet güncel:5950
+Kütahya	tümbet güncel:5950
+Malatya	tümbet güncel:5950
+Manisa	tümbet güncel:5950
+Kahramanmaraş Province	tümbet güncel:5950
+Mardin	tümbet güncel:5950
+Muğla Province	tümbet güncel:5950
+Muş	tümbet güncel:5950
+Nevşehir	tümbet güncel:5950
+Niğde	tümbet güncel:5950
+Ordu	tümbet güncel:5950
+Rize	tümbet güncel:5950
+Sakarya	tümbet güncel:5950
+Samsun	tümbet güncel:5950
+Siirt Province	tümbet güncel:5950
+Sinop Province	tümbet güncel:5950
+Sivas	tümbet güncel:5950
+Tekirdağ	tümbet güncel:5950
+Tokat	tümbet güncel:5950
+Trabzon	tümbet güncel:5950
+Tunceli	tümbet güncel:5950
+Şanlıurfa Province	tümbet güncel:5950
+Uşak	tümbet güncel:5950
+Van	tümbet güncel:5950
+Yozgat	tümbet güncel:5950
+Zonguldak	tümbet güncel:5950
+Aksaray	tümbet güncel:5950
+Bayburt	tümbet güncel:5950
+Karaman	tümbet güncel:5950
+Kırıkkale	tümbet güncel:5950
+Batman	tümbet güncel:5950
+Şırnak	tümbet güncel:5950
+Bartın Province	tümbet güncel:5950
+Ardahan Province	tümbet güncel:5950
+Iğdır	tümbet güncel:5950
+Yalova Province	tümbet güncel:5950
+Karabük	tümbet güncel:5950
+Kilis	tümbet güncel:5950
+Osmaniye	tümbet güncel:5950
+Düzce Province	tümbet güncel:5950
+Alsace	luc plamondon:2350
+Aquitaine	luc plamondon:2350
+Auvergne	luc plamondon:2350
+Burgundy	luc plamondon:2350
+Brittany	luc plamondon:2350
+Centre-Val de Loire	luc plamondon:2350
+Champagne-Ardenne	luc plamondon:2350
+Corsica	luc plamondon:2350
+Franche-Comté	luc plamondon:2350
+Île-de-France	luc plamondon:2350
+Languedoc-Roussillon	luc plamondon:2350
+Limousin	luc plamondon:2350
+Lorraine	luc plamondon:2350
+Midi-Pyrénées	luc plamondon:2350
+Nord-Pas-de-Calais	luc plamondon:2350
+Lower Normandy	luc plamondon:2350
+Upper Normandy	luc plamondon:2350
+Pays de la Loire	luc plamondon:2350
+Picardy	luc plamondon:2350
+Poitou-Charentes	luc plamondon:2350
+Provence-Alpes-Côte d'Azur	luc plamondon:2350
+Rhone-Alpes	luc plamondon:2350
+Seoul	갓 성은:1950
+Busan	갓 성은:1950
+Daegu	갓 성은:1950
+Incheon	갓 성은:1950
+Gwangju	갓 성은:1950
+Daejeon	갓 성은:1950
+Ulsan	갓 성은:1950
+Gyeonggi-do	갓 성은:1950
+Gangwon-do	갓 성은:1950
+Chungcheongbuk-do	갓 성은:1950
+Chungcheongnam-do	갓 성은:1950
+Jeollabuk-do	갓 성은:1950
+Jeollanam-do	갓 성은:1950
+Gyeongsangbuk-do	갓 성은:1950
+Gyeongsangnam-do	갓 성은:1950
+Jeju-do	갓 성은:1950
+Alexandria Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Aswan Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Assiut Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Red Sea Governorate	ألمانيا ضد البوسنة والهرسك:2700
+El Beheira Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Beni Suef Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Cairo Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Dakahlia Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Damietta Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Faiyum Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Gharbia Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Giza Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Ismailia Governorate	ألمانيا ضد البوسنة والهرسك:2700
+South Sinai Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Al Qalyubia Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Kafr El Sheikh Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Qena Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Luxor Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Menia Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Menofia Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Matrouh Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Port Said Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Sohag Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Ash Sharqia Governorate	ألمانيا ضد البوسنة والهرسك:2700
+North Sinai Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Suez Governorate	ألمانيا ضد البوسنة والهرسك:2700
+New Valley Governorate	ألمانيا ضد البوسنة والهرسك:2700
+Kaohsiung City	古巴 日本:5350
+Taoyuan City	古巴 日本:5350
+Tainan City	古巴 日本:5350
+Taipei City	古巴 日本:5350
+New Taipei City	古巴 日本:5350
+Taichung City	古巴 日本:5350
+Lai Chau	thái lan đấu với lào:3700
+Lao Cai	thái lan đấu với lào:3700
+Ha Giang	thái lan đấu với lào:3700
+Cao Bang	thái lan đấu với lào:3700
+Son La	thái lan đấu với lào:3700
+Yen Bai Province	thái lan đấu với lào:3700
+Tuyên Quang Province	thái lan đấu với lào:3700
+Lang Son Province	thái lan đấu với lào:3700
+Quảng Ninh Province	thái lan đấu với lào:3700
+Hoa Binh	thái lan đấu với lào:3700
+Ninh Bình Province	thái lan đấu với lào:3700
+Thai Binh	thái lan đấu với lào:3700
+Thanh Hoa	thái lan đấu với lào:3700
+Nghe An	thái lan đấu với lào:3700
+Ha Tinh Province	thái lan đấu với lào:3700
+Quang Binh Province	thái lan đấu với lào:3700
+Quảng Trị Province	thái lan đấu với lào:3700
+Thua Thien Hue	thái lan đấu với lào:3700
+Quang Nam Province	thái lan đấu với lào:3700
+Kon Tum Province	thái lan đấu với lào:3700
+Quang Ngai	thái lan đấu với lào:3700
+Gia Lai Province	thái lan đấu với lào:3700
+Binh Dinh Province	thái lan đấu với lào:3700
+Phú Yên Province	thái lan đấu với lào:3700
+Đắk Lắk Province	thái lan đấu với lào:3700
+Khanh Hoa Province	thái lan đấu với lào:3700
+Lâm Đồng	thái lan đấu với lào:3700
+Ninh Thuan Province	thái lan đấu với lào:3700
+Tây Ninh Province	thái lan đấu với lào:3700
+Dong Nai	thái lan đấu với lào:3700
+Binh Thuan	thái lan đấu với lào:3700
+Long An Province	thái lan đấu với lào:3700
+Ba Ria - Vung Tau	thái lan đấu với lào:3700
+An Giang Province	thái lan đấu với lào:3700
+Đồng Tháp Province	thái lan đấu với lào:3700
+Tien Giang	thái lan đấu với lào:3700
+Kien Giang	thái lan đấu với lào:3700
+Vinh Long	thái lan đấu với lào:3700
+Ben Tre	thái lan đấu với lào:3700
+Tra Vinh	thái lan đấu với lào:3700
+Soc Trang	thái lan đấu với lào:3700
+Bắc Kạn Province	thái lan đấu với lào:3700
+Bac Giang	thái lan đấu với lào:3700
+Bac Lieu	thái lan đấu với lào:3700
+Bac Ninh Province	thái lan đấu với lào:3700
+Binh Duong	thái lan đấu với lào:3700
+Binh Phuoc	thái lan đấu với lào:3700
+Ca Mau	thái lan đấu với lào:3700
+Hai Duong	thái lan đấu với lào:3700
+Hà Nam Province	thái lan đấu với lào:3700
+Hung Yen Province	thái lan đấu với lào:3700
+Nam Dinh	thái lan đấu với lào:3700
+Phu Tho Province	thái lan đấu với lào:3700
+Thai Nguyen	thái lan đấu với lào:3700
+Vinh Phuc Province	thái lan đấu với lào:3700
+Dien Bien	thái lan đấu với lào:3700
+Dak Nong	thái lan đấu với lào:3700
+Hau Giang	thái lan đấu với lào:3700
+Can Tho	thái lan đấu với lào:3700
+Da Nang	thái lan đấu với lào:3700
+Hanoi	thái lan đấu với lào:3700
+Haiphong	thái lan đấu với lào:3700
+Ho Chi Minh	thái lan đấu với lào:3700
+Bangkok	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Samut Prakan	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nonthaburi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Pathum Thani	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phra Nakhon Si Ayutthaya	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Ang Thong	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Lopburi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Sing Buri	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chai Nat	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Saraburi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chon Buri	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Rayong	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chanthaburi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Trat	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chachoengsao	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Prachin Buri	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nakhon Nayok	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Sa Kaeo	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nakhon Ratchasima	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Buri Ram	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Surin	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Si Sa Ket	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Ubon Ratchathani	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Yasothon	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chaiyaphum	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Amnat Charoen	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Bueng Kan	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nong Bua Lam Phu	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Khon Kaen	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Udon Thani	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Loei	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nong Khai	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Maha Sarakham	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Roi Et	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Kalasin	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Sakon Nakhon	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nakhon Phanom	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Mukdahan	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chiang Mai	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Lamphun	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Lampang	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Uttaradit	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phrae	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nan	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phayao	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chiang Rai	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Mae Hong Son	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nakhon Sawan	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Uthai Thani	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Kamphaeng Phet	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Tak	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Sukhothai	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phitsanulok	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phichit	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phetchabun	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Ratchaburi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Kanchanaburi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Suphan Buri	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nakhon Pathom	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Samut Sakhon	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Samut Songkhram	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phetchaburi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Prachuap Khiri Khan	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Nakhon Si Thammarat	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Krabi	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phang-nga	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phuket	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Surat Thani	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Ranong	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Chumphon	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Songkhla	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Satun	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Trang	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Phatthalung	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Pattani	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Yala	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Narathiwat	ตรวจ หวย 16 พฤศจิกายน 2567:15200
+Andalusia	real madrid c. f. femenino barcelona:3300
+Aragon	real madrid c. f. femenino barcelona:3300
+Asturias	real madrid c. f. femenino barcelona:3300
+Cantabria	real madrid c. f. femenino barcelona:3300
+Ceuta	real madrid c. f. femenino barcelona:3300
+Castile and León	real madrid c. f. femenino barcelona:3300
+Castile-La Mancha	real madrid c. f. femenino barcelona:3300
+Canary Islands	real madrid c. f. femenino barcelona:3300
+Catalonia	real madrid c. f. femenino barcelona:3300
+Extremadura	real madrid c. f. femenino barcelona:3300
+Galicia	real madrid c. f. femenino barcelona:3300
+Balearic Islands	real madrid c. f. femenino barcelona:3300
+Region of Murcia	real madrid c. f. femenino barcelona:3300
+Community of Madrid	real madrid c. f. femenino barcelona:3300
+Melilla	real madrid c. f. femenino barcelona:3300
+Navarre	real madrid c. f. femenino barcelona:3300
+Basque Country	real madrid c. f. femenino barcelona:3300
+La Rioja	real madrid c. f. femenino barcelona:3300
+Valencian Community	real madrid c. f. femenino barcelona:3300
+Johor	england vs ireland:2000
+Kedah	england vs ireland:2000
+Kelantan	england vs ireland:2000
+Malacca	england vs ireland:2000
+Negeri Sembilan	england vs ireland:2000
+Pahang	england vs ireland:2000
+Penang	england vs ireland:2000
+Perak	england vs ireland:2000
+Perlis	england vs ireland:2000
+Selangor	england vs ireland:2000
+Terengganu	england vs ireland:2000
+Sabah	england vs ireland:2000
+Sarawak	england vs ireland:2000
+Federal Territory of Kuala Lumpur	england vs ireland:2000
+Labuan Federal Territory	england vs ireland:2000
+Putrajaya	england vs ireland:2000
+Salta Province	san lorenzo racing:5050
+Buenos Aires Province	san lorenzo racing:5050
+Autonomous City of Buenos Aires	san lorenzo racing:5050
+San Luis Province	san lorenzo racing:5050
+Entre Rios	san lorenzo racing:5050
+La Rioja Province	san lorenzo racing:5050
+Santiago del Estero Province	san lorenzo racing:5050
+Chaco Province	san lorenzo racing:5050
+San Juan Province	san lorenzo racing:5050
+Catamarca Province	san lorenzo racing:5050
+La Pampa Province	san lorenzo racing:5050
+Mendoza Province	san lorenzo racing:5050
+Misiones Province	san lorenzo racing:5050
+Formosa Province	san lorenzo racing:5050
+Neuquen	san lorenzo racing:5050
+Río Negro	san lorenzo racing:5050
+Santa Fe Province	san lorenzo racing:5050
+Tucumán	san lorenzo racing:5050
+Chubut Province	san lorenzo racing:5050
+Tierra del Fuego Province	san lorenzo racing:5050
+Corrientes Province	san lorenzo racing:5050
+Jujuy	san lorenzo racing:5050
+Santa Cruz Province	san lorenzo racing:5050
+Australian Capital Territory	alan jones:3050
+New South Wales	alan jones:3050
+Northern Territory	alan jones:3050
+Queensland	alan jones:3050
+South Australia	alan jones:3050
+Tasmania	alan jones:3050
+Victoria	alan jones:3050
+Western Australia	alan jones:3050
+Vinnyts'ka oblast	грузія – україна:7650
+England	england vs ireland:3250
+Northern Ireland	england vs ireland:3250
+Scotland	england vs ireland:3250
+Wales	england vs ireland:3250
+South District	חמינאי:3000
+Haifa District	חמינאי:3000
+Jerusalem District	חמינאי:3000
+Center District	חמינאי:3000
+Tel Aviv District	חמינאי:3000
+North District	חמינאי:3000
+Eastern Cape	germany vs bosnia and herzegovina:2550
+Free State	germany vs bosnia and herzegovina:2550
+Gauteng	germany vs bosnia and herzegovina:2550
+Limpopo	germany vs bosnia and herzegovina:2550
+Mpumalanga	germany vs bosnia and herzegovina:2550
+Northern Cape	germany vs bosnia and herzegovina:2550
+KwaZulu-Natal	germany vs bosnia and herzegovina:2550
+North West	germany vs bosnia and herzegovina:2550
+Western Cape	germany vs bosnia and herzegovina:2550
+Auckland	dubbing:3800
+Bay Of Plenty	dubbing:3800
+Canterbury	dubbing:3800
+Chatham Islands	dubbing:3800
+Gisborne	dubbing:3800
+Hawke's Bay	dubbing:3800
+Marlborough	dubbing:3800
+Manawatu-Wanganui	dubbing:3800
+Nelson	dubbing:3800
+Northland	dubbing:3800
+Otago	dubbing:3800
+Southland	dubbing:3800
+Tasman	dubbing:3800
+Taranaki	dubbing:3800
+Wellington	dubbing:3800
+Waikato	dubbing:3800
+West Coast	dubbing:3800
+XI Región	recetas chilenas:2800
+Antofagasta Region	recetas chilenas:2800
+Arica y Parinacota Region	recetas chilenas:2800
+Araucania	recetas chilenas:2800
+Atacama Region	recetas chilenas:2800
+Bío Bío Region	recetas chilenas:2800
+Coquimbo Region	recetas chilenas:2800
+O'Higgins Region	recetas chilenas:2800
+Los Lagos Region	recetas chilenas:2800
+Los Ríos Region	recetas chilenas:2800
+Magallanes y la Antártica Chilena Region	recetas chilenas:2800
+Maule Region	recetas chilenas:2800
+Santiago Metropolitan Region	recetas chilenas:2800
+Tarapacá Region	recetas chilenas:2800
+Valparaiso Region	recetas chilenas:2800
